@@ -2,8 +2,6 @@
 
 **Electronics & Telecommunications 
 -- Computer Engineering & Embedded Systems**
-
-@ VNUHCM – University of Science
 ---
 
 ### 📍 About Me

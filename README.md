@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Lê Tiến Thắng
 
-**Electronics & Telecommunications · Computer Engineering & Embedded Systems**
+**Electronics & Telecommunications 
+-- Computer Engineering & Embedded Systems**
+
 @ VNUHCM – University of Science
 ---
 

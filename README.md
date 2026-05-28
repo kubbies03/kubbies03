@@ -1,7 +1,3 @@
-Preview — GitHub Profile README
-Preview
-Markdown
-Copy
 # 👋 Hi, I'm Lê Tiến Thắng
 
 **Computer Engineering & Embedded Systems**
@@ -34,11 +30,11 @@ Copy
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=kubbies03&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kubbies03&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubbies03&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubbies03&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🎯 Hobbies
 
-✈️ Travelling   📷 Photography   🎮 Gaming
+✈️ Travelling   📷 Photography   🎮 Gaming

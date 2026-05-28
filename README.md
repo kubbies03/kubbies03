@@ -5,13 +5,12 @@
 
 ---
 
-### 📍 About Me
+### 📬 Contact
 
-- 🏫 Studying at **VNUHCM – University of Science**
-- 📍 Based in **TP. Hồ Chí Minh, Việt Nam**
-- 📬 Reach me: [letienthang30104@gmail.com](mailto:letienthang30104@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/thang-le-tien-76a658350/)
-- 👤 [Facebook](https://www.facebook.com/301.th4ngle)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:letienthang30104@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thang-le-tien-76a658350/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/301.th4ngle)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=flat&logo=zalo&logoColor=white)](https://zalo.me/0349881910)
 
 ---
 
